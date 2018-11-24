@@ -4,6 +4,7 @@ Based-on USRP platform to build the OpenBTS system
 ###下载：
 
 ```
+下载：
 git clone https://github.com/beatlesm/USRP-OpenBTS.git
 
 测试github是否联通：
